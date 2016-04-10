@@ -26,7 +26,7 @@ METHOD
 -Make it easy to output the result by letting inputted letter translate in corresponding **ACSII** code     
 -Output the letter in order by retrievaling the letter pattern lists      
 like     
-![x](https://raw.githubusercontent.com/luomingyu/computationalphysics_N2013301020045/homework1/O63(%7B95%5B%24N9(7J50EP1BV%40D.png)
+![x](https://raw.githubusercontent.com/luomingyu/computationalphysics_N2013301020045/homework1/the%20picture%20of%20the%20third%20homework.png)
 
 code
 -----

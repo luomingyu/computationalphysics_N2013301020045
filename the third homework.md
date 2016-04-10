@@ -22,6 +22,7 @@ METHOD
  >'#000#'     
  >'#000#'     
  >(using "**0**" to replace [**space**])        
+
 -Make it easy to output the result by letting inputted letter translate in corresponding **ACSII** code     
 -Output the letter in order by retrievaling the letter pattern lists      
 like     

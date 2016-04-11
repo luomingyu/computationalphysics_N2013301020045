@@ -30,4 +30,4 @@ like
 
 code
 -----
-[the code of the first homework](https://raw.githubusercontent.com/luomingyu/computationalphysics_N2013301020045/homework1/第三次作业代码.py)
+[the code of the first homework](https://raw.githubusercontent.com/luomingyu/computationalphysics_N2013301020045/code/第三次作业代码.py)

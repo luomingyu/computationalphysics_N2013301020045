@@ -20,7 +20,7 @@ METHOD
 ![x](https://raw.githubusercontent.com/luomingyu/computationalphysics_N2013301020045/code/4th%20%20formula1.png)
 -Put the calculation result of every step into the list na and nb     
 -Use the matplotlab plot na&nb vs. t     
-   like
+   like     
 ![x](https://raw.githubusercontent.com/luomingyu/computationalphysics_N2013301020045/code/the%20picture%20of%20the%20forth%20homework.png)
 
 code

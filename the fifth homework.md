@@ -17,7 +17,7 @@ METHOD
 --------------
 -Input the initialize of this radioactive decay problem,**such** **as** initial number of nuclei A     
 -Use the Euler approximation to do the calculation,like     
-![x](https://raw.githubusercontent.com/luomingyu/computationalphysics_N2013301020045/code/4th%20%20formula1.png)
+![x](https://raw.githubusercontent.com/luomingyu/computationalphysics_N2013301020045/code/4th%20%20formula1.png)     
 -Put the calculation result of every step into the list na and nb     
 -Use the matplotlab plot na&nb vs. t     
    like

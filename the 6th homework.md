@@ -31,8 +31,8 @@ and use the best angle which lead to the longest firing distance [the code of th
 
 - But the density of sir will affect air resistance , and it vary as a function of the altitude . So we have a somewhat different dependence of the density on altitude by adiabatic approximation       
 ![x](https://raw.githubusercontent.com/luomingyu/computationalphysics_N2013301020045/code/6th/7.png)      
-The drag force due to air resistance is proportional to the density , so
-![x](https://raw.githubusercontent.com/luomingyu/computationalphysics_N2013301020045/code/6th/8.png)       
+The drag force due to air resistance is proportional to the density , so      
+![x](https://raw.githubusercontent.com/luomingyu/computationalphysics_N2013301020045/code/6th/8.png)            
 Finally , we gain the equations of motion leading  to       
 ![x](https://raw.githubusercontent.com/luomingyu/computationalphysics_N2013301020045/code/6th/9.png)       
 

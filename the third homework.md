@@ -26,10 +26,10 @@ METHOD
 -Make it easy to output the result by letting inputted letter translate in corresponding **ACSII** code     
 -Output the letter in order by retrievaling the letter pattern lists      
 like     
-![x](https://raw.githubusercontent.com/luomingyu/computationalphysics_N2013301020045/homework1/the%20picture%20of%20the%20third%20homework.png)
+![x](https://raw.githubusercontent.com/luomingyu/computationalphysics_N2013301020045/code/3th/1.jpg)
 
 code
 -----
-[the code of the first homework](https://raw.githubusercontent.com/luomingyu/computationalphysics_N2013301020045/code/第三次作业代码.py)
+[the code of the first homework](https://raw.githubusercontent.com/luomingyu/computationalphysics_N2013301020045/code/3th/第三次作业代码.py)
 
 thanks to [aragornranger/computationalphysics_N2013301020051](https://github.com/aragornranger/computationalphysics_N2013301020051)

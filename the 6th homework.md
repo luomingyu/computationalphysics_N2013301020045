@@ -40,6 +40,4 @@ we can use [the code of scanning](https://raw.githubusercontent.com/luomingyu/co
 We also can set the aimming distance to gain the corresponding angel and initial vecolicy [the code of amming distance](https://raw.githubusercontent.com/luomingyu/computationalphysics_N2013301020045/code/6th/6th-定点打击扫描-风阻%2B空气密度%20-%20.py) . (The code need to be simplified to run . because I haven't found the bug , but my computer cannit run this file )     
 
 
-
-Thanks for [Huang Xudan's help](https://github.com/tongqiancao/computionalphysics-N2013302290059)
 ----

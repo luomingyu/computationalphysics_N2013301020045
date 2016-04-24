@@ -30,5 +30,5 @@ Here we assume that the axis of rotation is parallel to **y** , that is , perpen
 
 [code](https://raw.githubusercontent.com/luomingyu/computationalphysics_N2013301020045/code/7th/baseball%20without%20wind.py)
 ---
-Thanks for [Huang Xudan's help](https://github.com/tongqiancao/computionalphysics-N2013302290059)
+
 ----

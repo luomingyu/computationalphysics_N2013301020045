@@ -24,7 +24,7 @@ To calculate the trajectory of a curve ball , we have to consider motion in thre
 
 ![x](https://raw.githubusercontent.com/luomingyu/computationalphysics_N2013301020045/code/7th/formula4.png)      
 Here we assume that the axis of rotation is parallel to **y** , that is , perpendicular to the ground . These equations of motion include the effect  of atmospheric drag on the largest component of the velovity (Vx) , with a velocity dependent coefficient , but we haven't included it for Vy or Vz , since the forces are much smaller in these cases .   
-
+![x](https://raw.githubusercontent.com/luomingyu/computationalphysics_N2013301020045/code/7th/3.gif)
 
 [code](https://raw.githubusercontent.com/luomingyu/computationalphysics_N2013301020045/code/7th/baseball%20without%20wind.py)
 ---

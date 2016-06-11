@@ -51,13 +51,13 @@ At low drive the motion is a simple oscillation, which would, if we were suffici
 
 - **3.16** Investigate how a strange attractor is altered by small changes in one of the pendulum parameters. Begin by calculating the strange attractor. Then change either the drive amplitude or drive frequency by a small amount and observe the changes in the attrator.    
 
-F_D=1.2，OMEGA_D=0.66667
+F_D=1.2，OMEGA_D=0.66667     
 ![x](https://raw.githubusercontent.com/luomingyu/computationalphysics_N2013301020045/code/9th/FD%3D1.2，OMEGAD%3D0.66667.png)        
 
-F_D=1.2，OMEGA_D=0.75
+F_D=1.2，OMEGA_D=0.75     
 ![x](https://raw.githubusercontent.com/luomingyu/computationalphysics_N2013301020045/code/9th/FD%3D1.2%2Comega%3D0.75.png)        
 
-F_D=1.1，OMEGA_D=0.66667
+F_D=1.1，OMEGA_D=0.66667     
 ![x](https://raw.githubusercontent.com/luomingyu/computationalphysics_N2013301020045/code/9th/FD%3D1.1%2COMEGAD%3D0.66667.png)        
 **REFERENCE**
 ----  

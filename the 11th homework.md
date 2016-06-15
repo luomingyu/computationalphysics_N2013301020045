@@ -50,7 +50,7 @@ with assuming that
 so it leads to these equations ：     
 ![x](https://raw.githubusercontent.com/luomingyu/computationalphysics_N2013301020045/code/11th/d3.png)         
 By using Euler-Cromer method, we could find      
- ![x](https://raw.githubusercontent.com/luomingyu/computationalphysics_N2013301020045/code/11th/d4.png)         
+ ![x](https://raw.githubusercontent.com/luomingyu/computationalphysics_N2013301020045/code/11th/d41.png)         
 
 [code](https://raw.githubusercontent.com/luomingyu/computationalphysics_N2013301020045/code/11th/q1-1.py)
 --

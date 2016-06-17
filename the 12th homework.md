@@ -108,8 +108,6 @@ This above picture amplify like:
 
 ![x](https://raw.githubusercontent.com/luomingyu/computationalphysics_N2013301020045/code/12th/u-3-2.png)           
 
-[code](https://raw.githubusercontent.com/luomingyu/computationalphysics_N2013301020045/code/11th/q1-1.py)
---
 
 **REFERENCE**
 ----  

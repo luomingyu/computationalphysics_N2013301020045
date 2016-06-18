@@ -125,5 +125,5 @@ V_1=1, V_2=1, V_B=2
 **REFERENCE**
 ----  
 [1] Compulational Phsics , Nicholas J. Giordamo and Hisao Nakanishi , Tsinghua University Press, December 2007           
-[2]Thanks for the code to                          
+[2]Thanks for the code of                          
 **ChenYangyao/computationalphysics_N2013301020169**

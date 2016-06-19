@@ -25,3 +25,5 @@ There are all the computationalphysics'homework.It's the beginning of writing co
 ---
 [the 13th homework](https://github.com/luomingyu/computationalphysics_N2013301020045/blob/master/the%2013th%20homework.md)       
 ---
+[the 14th homework](https://github.com/luomingyu/computationalphysics_N2013301020045/blob/master/the%2014th%20homework.md)       
+---
